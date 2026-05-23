@@ -20,7 +20,7 @@
 
 ## 📌 Sobre o projeto
 
-O **SIPREV-Mulher/MS** é um notebook analítico desenvolvido para apoiar o estudo, o mapeamento e a previsão de padrões de violência contra a mulher no estado de **Mato Grosso do Sul**, com base em dados públicos de segurança registrados no conjunto **CVLI — Crimes Violentos Letais Intencionais** da **SEJUSP-MS**.**S.I.G.O**.
+O **SIPREV-Mulher/MS** é um notebook analítico desenvolvido para apoiar o estudo, o mapeamento e a previsão de padrões de violência contra a mulher no estado de **Mato Grosso do Sul**, com base em dados públicos de segurança registrados no conjunto **CVLI — Crimes Violentos Letais Intencionais** da **SEJUSP-MS**/**S.I.G.O**.
 
 O projeto combina técnicas de:
 
